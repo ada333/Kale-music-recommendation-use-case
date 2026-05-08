@@ -1,0 +1,101 @@
+song_id,title,artist,genre,release_year,energy,valence,danceability,acousticness,tempo,language
+S001,Northern Lights,The Midnight,Synthwave,2024,0.68,0.72,0.65,0.15,118,English
+S002,Wildflower,The Avalanches,Electronic,2023,0.71,0.68,0.70,0.12,122,English
+S003,Apache,The Incredible Bongo Band,Funk,1973,0.82,0.75,0.78,0.25,125,Instrumental
+S004,Sunset Lover,Petit Biscuit,Electronic,2022,0.45,0.65,0.58,0.35,95,French
+S005,Time,Pink Floyd,Rock,1973,0.55,0.42,0.38,0.22,108,Instrumental
+S006,Electric Feel,MGMT,Indie Rock,2007,0.78,0.71,0.73,0.08,132,English
+S007,Home,Edward Sharpe,Folk,2009,0.62,0.88,0.68,0.45,102,English
+S008,Such Great Heights,The Postal Service,Indie Rock,2003,0.67,0.65,0.64,0.18,118,English
+S009,Breathe,Télépopmusik,Electronic,2001,0.52,0.58,0.62,0.28,112,French
+S010,Intro,The xx,Indie Rock,2009,0.38,0.35,0.52,0.68,88,Instrumental
+S011,Myth,Beach House,Dream Pop,2012,0.58,0.55,0.48,0.32,98,English
+S012,Sleepyhead,Passion Pit,Indie Pop,2008,0.75,0.68,0.72,0.15,128,English
+S013,Float On,Modest Mouse,Indie Rock,2004,0.71,0.82,0.68,0.22,125,English
+S014,Young Folks,Peter Bjorn and John,Indie Pop,2006,0.65,0.78,0.75,0.28,115,English
+S015,Mr. Blue Sky,Electric Light Orchestra,Rock,1977,0.88,0.95,0.72,0.12,142,English
+S016,Redbone,Childish Gambino,R&B,2016,0.42,0.58,0.68,0.35,98,English
+S017,Feels Like We Only Go Backwards,Tame Impala,Psychedelic Rock,2012,0.68,0.62,0.65,0.18,105,English
+S018,Tennis Court,Lorde,Pop,2013,0.72,0.48,0.68,0.08,118,English
+S019,Dog Days Are Over,Florence + The Machine,Indie Rock,2008,0.85,0.78,0.72,0.15,135,English
+S020,Budapest,George Ezra,Folk,2014,0.62,0.72,0.68,0.48,128,English
+S021,Take Me to Church,Hozier,Indie Rock,2013,0.68,0.35,0.55,0.22,102,English
+S022,Riptide,Vance Joy,Folk,2013,0.72,0.82,0.68,0.62,108,English
+S023,Pumped Up Kicks,Foster the People,Indie Pop,2010,0.68,0.62,0.72,0.18,128,English
+S024,Little Talks,Of Monsters and Men,Indie Folk,2011,0.78,0.68,0.72,0.28,105,English
+S025,Tongue Tied,Grouplove,Indie Rock,2011,0.82,0.85,0.75,0.12,132,English
+S026,Safe and Sound,Capital Cities,Indie Pop,2011,0.75,0.78,0.78,0.08,122,English
+S027,Ho Hey,The Lumineers,Folk,2012,0.68,0.72,0.68,0.55,95,English
+S028,Radioactive,Imagine Dragons,Rock,2012,0.88,0.52,0.68,0.05,138,English
+S029,Demons,Imagine Dragons,Rock,2012,0.72,0.42,0.62,0.08,118,English
+S030,It's Time,Imagine Dragons,Rock,2012,0.78,0.72,0.68,0.15,125,English
+S031,Shut Up and Dance,Walk the Moon,Indie Pop,2014,0.85,0.88,0.82,0.05,128,English
+S032,Stressed Out,Twenty One Pilots,Alternative,2015,0.68,0.55,0.68,0.22,108,English
+S033,Ride,Twenty One Pilots,Alternative,2015,0.62,0.58,0.62,0.28,95,English
+S034,Heathens,Twenty One Pilots,Alternative,2016,0.75,0.45,0.72,0.08,118,English
+S035,House of Gold,Twenty One Pilots,Alternative,2013,0.68,0.68,0.65,0.52,108,English
+S036,Sweater Weather,The Neighbourhood,Indie Rock,2012,0.58,0.52,0.68,0.18,98,English
+S037,R.I.P. 2 My Youth,The Neighbourhood,Indie Rock,2015,0.65,0.48,0.65,0.12,105,English
+S038,Daddy Issues,The Neighbourhood,Indie Rock,2015,0.52,0.42,0.58,0.22,88,English
+S039,Ways to Go,Grouplove,Indie Rock,2013,0.82,0.75,0.75,0.08,128,English
+S040,Colours,Grouplove,Indie Rock,2011,0.78,0.78,0.72,0.12,122,English
+S041,Do You Remember,Jarryd James,Indie Pop,2015,0.62,0.62,0.68,0.25,102,English
+S042,Somebody Else,The 1975,Indie Pop,2016,0.68,0.55,0.72,0.15,118,English
+S043,The Sound,The 1975,Indie Pop,2016,0.78,0.72,0.78,0.08,128,English
+S044,Chocolate,The 1975,Indie Pop,2013,0.72,0.68,0.75,0.12,122,English
+S045,Love Me,The 1975,Indie Pop,2015,0.75,0.65,0.78,0.05,118,English
+S046,UGH!,The 1975,Indie Pop,2016,0.82,0.58,0.75,0.08,125,English
+S047,Girls,The 1975,Indie Pop,2013,0.78,0.72,0.78,0.15,128,English
+S048,Robbers,The 1975,Indie Pop,2013,0.62,0.48,0.58,0.22,98,English
+S049,Sex,The 1975,Indie Pop,2013,0.68,0.62,0.68,0.18,115,English
+S050,Settle Down,The 1975,Indie Pop,2013,0.72,0.68,0.72,0.12,122,English
+S051,Midnight City,M83,Electronic,2011,0.78,0.62,0.68,0.05,125,English
+S052,Wait,M83,Electronic,2011,0.62,0.58,0.52,0.18,98,Instrumental
+S053,Reunion,M83,Electronic,2011,0.68,0.65,0.58,0.22,105,Instrumental
+S054,Outro,M83,Electronic,2011,0.52,0.72,0.48,0.35,88,Instrumental
+S055,Oblivion,M83,Electronic,2011,0.65,0.55,0.62,0.15,108,English
+S056,Strobe,Deadmau5,Electronic,2009,0.58,0.48,0.65,0.08,128,Instrumental
+S057,I Remember,Deadmau5,Electronic,2008,0.62,0.62,0.68,0.12,122,English
+S058,Ghosts 'n' Stuff,Deadmau5,Electronic,2008,0.82,0.68,0.75,0.05,128,English
+S059,Teardrop,Massive Attack,Trip Hop,1998,0.48,0.42,0.58,0.25,85,English
+S060,Unfinished Sympathy,Massive Attack,Trip Hop,1991,0.52,0.55,0.62,0.18,95,English
+S061,Protection,Massive Attack,Trip Hop,1994,0.45,0.48,0.55,0.28,88,English
+S062,Glory Box,Portishead,Trip Hop,1994,0.42,0.38,0.52,0.32,78,English
+S063,Sour Times,Portishead,Trip Hop,1994,0.48,0.35,0.55,0.28,82,English
+S064,Roads,Portishead,Trip Hop,1994,0.38,0.32,0.48,0.42,72,English
+S065,Wicked Game,Chris Isaak,Rock,1989,0.45,0.35,0.52,0.55,105,English
+S066,Song 2,Blur,Rock,1997,0.92,0.72,0.68,0.05,132,English
+S067,Bitter Sweet Symphony,The Verve,Rock,1997,0.68,0.48,0.62,0.25,88,English
+S068,Wonderwall,Oasis,Rock,1995,0.55,0.68,0.58,0.62,88,English
+S069,Don't Look Back in Anger,Oasis,Rock,1995,0.58,0.65,0.55,0.45,82,English
+S070,Champagne Supernova,Oasis,Rock,1995,0.52,0.58,0.52,0.38,78,English
+S071,Creep,Radiohead,Rock,1992,0.68,0.35,0.58,0.22,92,English
+S072,Karma Police,Radiohead,Rock,1997,0.52,0.42,0.52,0.32,78,English
+S073,No Surprises,Radiohead,Rock,1997,0.42,0.38,0.48,0.45,72,English
+S074,Fake Plastic Trees,Radiohead,Rock,1995,0.48,0.35,0.52,0.52,75,English
+S075,High and Dry,Radiohead,Rock,1995,0.55,0.48,0.55,0.55,85,English
+S076,Idioteque,Radiohead,Electronic,2000,0.78,0.42,0.72,0.05,138,English
+S077,Everything In Its Right Place,Radiohead,Electronic,2000,0.52,0.38,0.55,0.12,78,English
+S078,Pyramid Song,Radiohead,Rock,2001,0.45,0.35,0.48,0.38,68,English
+S079,Bodysnatchers,Radiohead,Rock,2007,0.82,0.55,0.68,0.08,115,English
+S080,Jigsaw Falling Into Place,Radiohead,Rock,2007,0.75,0.58,0.65,0.15,108,English
+S081,September,Earth Wind & Fire,Funk,1978,0.88,0.95,0.82,0.12,125,English
+S082,Superstition,Stevie Wonder,Funk,1972,0.85,0.78,0.82,0.15,102,English
+S083,Le Freak,Chic,Funk,1978,0.82,0.88,0.85,0.08,118,English
+S084,Good Times,Chic,Funk,1979,0.78,0.82,0.82,0.12,115,English
+S085,Get Lucky,Daft Punk,Funk,2013,0.72,0.88,0.78,0.15,118,English
+S086,Lose Yourself to Dance,Daft Punk,Funk,2013,0.68,0.82,0.82,0.18,108,English
+S087,Instant Crush,Daft Punk,Electronic,2013,0.62,0.65,0.68,0.22,105,English
+S088,Giorgio by Moroder,Daft Punk,Electronic,2013,0.75,0.68,0.72,0.08,125,English
+S089,Touch,Daft Punk,Electronic,2013,0.58,0.62,0.58,0.28,98,English
+S090,Within,Daft Punk,Electronic,2013,0.42,0.55,0.52,0.45,72,Instrumental
+S091,Digital Love,Daft Punk,Electronic,2001,0.68,0.78,0.72,0.12,122,English
+S092,Harder Better Faster Stronger,Daft Punk,Electronic,2001,0.82,0.72,0.82,0.05,128,English
+S093,Something About Us,Daft Punk,Electronic,2001,0.52,0.68,0.62,0.35,92,English
+S094,Veridis Quo,Daft Punk,Electronic,2001,0.62,0.72,0.58,0.18,105,Instrumental
+S095,Face to Face,Daft Punk,Electronic,2001,0.68,0.68,0.72,0.22,118,English
+S096,Aerodynamic,Daft Punk,Electronic,2001,0.88,0.65,0.78,0.05,138,Instrumental
+S097,One More Time,Daft Punk,Electronic,2000,0.85,0.88,0.82,0.08,122,English
+S098,Around the World,Daft Punk,Electronic,1997,0.78,0.75,0.85,0.05,118,English
+S099,Da Funk,Daft Punk,Electronic,1995,0.82,0.62,0.78,0.05,112,Instrumental
+S100,Revolution 909,Daft Punk,Electronic,1997,0.85,0.68,0.82,0.05,128,Instrumental
